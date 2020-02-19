@@ -1,10 +1,10 @@
 body{
-    margin: 0px;
+    margin: 5px;
 }
 h1{
     font-size: 60px;
-    text-align: start;
-    padding-left: 12px;
+    text-align: center;
+   padding: opx;
 }
 nav{
     width:100%;
@@ -77,3 +77,20 @@ nav>ul>li:hover>ul>li a {
 
 nav>ul>li:hover>ul>li:hover {
     box-shadow: 0 0 3px black inset;}
+
+img{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{
+    width: 100%;
+}
+
+p {
+    width: 99.5%;
+    font-size: 28px;
+    border:  solid black;
+   text-align: center;
+   border-radius: 10px;
+}
